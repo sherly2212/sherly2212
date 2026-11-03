@@ -26,5 +26,5 @@ belanja per transaksi hampir seragam di semua kelompok.
 [Lihat proyek](https://github.com/sherly2212/customer-segmentation)
 
 ## Kontak
-- Email: isi-emailmu@gmail.com
-- LinkedIn: isi-link-linkedinmu
+- Email: sherlykhairunnisa22@gmail.com
+- LinkedIn: www.linkedin.com/in/sherly-khairunnisa-b92b68252
