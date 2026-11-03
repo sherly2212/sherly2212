@@ -1,16 +1,30 @@
-## Hi there 👋
+# Halo, saya Sherly 👋
 
-<!--
-**sherly2212/sherly2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Calon Data Analyst yang suka mengubah data mentah menjadi insight yang
+bisa dipakai untuk keputusan bisnis. Saat ini saya membangun portofolio
+analisis data dengan Python dan SQL.
 
-Here are some ideas to get you started:
+## Skill
+- **Bahasa dan analisis:** Python (Pandas, Matplotlib), SQL (SQLite)
+- **Teknik:** data cleaning, EDA, JOIN, CTE, window function, segmentasi
+- **Tools:** Google Colab, GitHub, Looker Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyek
+
+### 1. Analisis Perilaku Interaksi Pengguna E-Commerce
+Menganalisis 2.871 interaksi (view, like, purchase) dengan Python.
+Temuan: interaksi memuncak di Oktober-Desember 2023.
+[Lihat proyek](https://github.com/sherly2212/ecommerce-interaction-analysis)
+
+### 2. Analisis SQL E-Commerce
+Menjawab pertanyaan bisnis dengan SQL: JOIN, CASE WHEN, CTE, dan RANK.
+[Lihat proyek](https://github.com/sherly2212/sql-ecommerce-analysis)
+
+### 3. Segmentasi Pelanggan Retail Fashion
+Segmentasi 3.900 pelanggan berdasarkan perilaku belanja. Temuan: nilai
+belanja per transaksi hampir seragam di semua kelompok.
+[Lihat proyek](https://github.com/sherly2212/customer-segmentation)
+
+## Kontak
+- Email: isi-emailmu@gmail.com
+- LinkedIn: isi-link-linkedinmu
